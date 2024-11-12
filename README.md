@@ -1,6 +1,6 @@
 # Task Manager
 
-Task Manager is a simple, full-stack application built with **Node.js**, **Express.js**, and **MongoDB**. This project provides essential task management features, allowing users to add, edit, and delete tasks, as well as mark them as completed. When a task is marked as completed, it appears with a strikethrough for easy identification. The app is hosted on [Render](https://render.com), a free hosting platform where inactive sites may take up to 60 seconds to load.
+Task Manager is a simple, full-stack application built with **Node.js**, **Express.js**, and **MongoDB**. This project provides essential task management features, allowing users to add, edit, and delete tasks, as well as mark them as completed. When a task is marked as completed, it appears with a strikethrough for easy identification. The app is hosted on [Render](https://render.com), a free hosting platform where inactive sites may take up to 60 seconds or more to load.
 
 ## Project Overview
 
@@ -53,7 +53,7 @@ npm start
 
 You can access the deployed app on Render [here](https://task-manager-ouc3.onrender.com).
 
-*`Note: Due to Render’s free hosting plan, it may take up to 60 seconds to load the site after periods of inactivity.`*
+*`Note: Due to Render’s free hosting plan, it may take up to 60 seconds or more to load the site after periods of inactivity.`*
 
 ## Future Improvements
 
